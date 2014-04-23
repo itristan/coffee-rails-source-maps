@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "",
+  "sourceRoot": "",
+  "sources": [
+    "/assets/source_maps/app/assets/javascripts/coffee_script_file.coffee"
+  ],
+  "names": [],
+  "mappings": "AAAA;AAAA,MAAA,MAAA;;AAAA,EAAA,MAAA,GAAS,SAAC,CAAD,GAAA;WAAO,CAAA,GAAI,EAAX;EAAA,CAAT,CAAA;AAAA"
+}

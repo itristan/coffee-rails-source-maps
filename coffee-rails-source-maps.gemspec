@@ -19,5 +19,12 @@ Gem::Specification.new do |gem|
   gem.require_paths = ["lib"]
 
   gem.add_dependency("coffee-script-source", ">= 1.6.1")
+  gem.add_dependency "rails"
+  gem.add_development_dependency "rails", "3.2.9"
   gem.add_development_dependency "rake"
+  gem.add_development_dependency "coffee-rails"
+  gem.add_development_dependency "ember_script-rails"
+  gem.add_development_dependency "rspec"
+  gem.add_development_dependency "rspec-rails"
+  gem.add_development_dependency "pry"
 end
